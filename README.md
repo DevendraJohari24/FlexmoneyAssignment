@@ -21,7 +21,9 @@ Solution :
 
 
 Website Link  - http://3.111.42.218:3000
+<br>
 Backend Database - https://github.com/DevendraJohari24/FlexmoneyDatabase
-
+<br>
 ER Diagram -
-<img src="https://drive.google.com/file/d/1XFFbr9xl0PKKcQ4Qge01gxT6hjljyuOy/view?usp=sharing" alt="ER Diagram" />
+<br>
+<img src="https://github.com/DevendraJohari24/FlexmoneyAssignment/blob/main/ERDiagram.png" alt="ER Diagram" />
