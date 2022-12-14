@@ -1,12 +1,14 @@
 import React, { Fragment } from "react"
+import Navbar from "../UI/Navbar/Navbar";
 import FormBody from "./FormBody";
 import FormHeader from "./FormHeader";
 
-function AdmissionForm(){
+const  AdmissionForm = () =>{
     
     return (
         <Fragment>
-            <div className="flex flex-col bg-green-100 max-w-6xl mx-auto mt-5 p-10 border-2 border-sky-500">
+            <Navbar />
+            <div className="flex flex-col bg-green-100 md:max-w-6xl md:mx-auto md:mt-5 p-5 border-2 border-sky-500">
                 <section>
                     <FormHeader />
                 </section>
@@ -19,4 +21,4 @@ function AdmissionForm(){
 
 }
 
-export default AdmissionForm
+export default AdmissionForm;
